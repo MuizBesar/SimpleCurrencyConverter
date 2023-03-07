@@ -1,2 +1,2 @@
 # SimpleCurrencyConverter
-Convert currencies around the world.
+Convert currencies around the world(mostly).
